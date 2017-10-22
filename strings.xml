@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileWriteReadExternal</string>
+
+    <string name="input_hint">Type your text here...</string>
+</resources>
